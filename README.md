@@ -13,6 +13,8 @@ This is a product search engine made using HTML, CSS, and JS. The search engine 
 5. Then go to your browser and type localhost:8080. The application should run.
 6. To terminate: hit ctrl + c in the terminal
 
+*You may need to clear the cache in the browser before doing these steps
+
 ### Acknowledgements
 
 This was made with the help of Tech2 etc on youtube. The following is a link to the youtube tutorial that I used: 
